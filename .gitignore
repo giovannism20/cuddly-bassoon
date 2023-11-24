@@ -169,6 +169,3 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
-
-# Github Self-hosted Runner
-actions-runner
